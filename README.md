@@ -5,7 +5,7 @@ This is a fork of [the original 100 Days of Code challenge](https://github.com/k
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](r1-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
