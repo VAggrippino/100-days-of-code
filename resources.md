@@ -42,10 +42,8 @@
   * [App Academy Open](https://open.appacademy.io/)
 
 ## Books
-
-### Coding
-  * ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/)
-  * ["Test-Driven Development with Python" by Harry J.W. Percival](https://www.obeythetestinggoat.com/)
+  * ["Eloquent Javascript"](http://eloquentjavascript.net/) by Marijn Haverbeke
+  * ["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/) by Harry J.W. Percival
 
 ## Tools, Online & Offline
 1. [Visual Studio Code](https://code.visualstudio.com/)  
