@@ -35,7 +35,7 @@
 
 ## R1D3: 30 Nov 2018
 
-### Today's Progress
+### Today's Progress:
   * Finished Hashes section of App Academy Introduction to Programming
   * [Don't Link This](https://github.com/VAggrippino/donot-link-this) - Committed first draft of bookmarklet implementation with the help of babeljs.io minifier.
 
@@ -50,3 +50,15 @@
 ### Links to Work
   * [App Academy Open](https://open.appacademy.io/) (There's no way to publicly link to my profile)
   * [[donot-link-this] commit 114207c](https://github.com/VAggrippino/donot-link-this/commit/114207c3824ed42ce9ba6489d83cee71e7931409)
+
+
+## R1D4: 01 Dec 2018
+
+### Today's Progress:
+  * Halfway through the last section of App Academy's "Introduction to Programming" course.
+  * Finished a rudimentary UI for the  [Don't Link This](https://github.com/VAggrippino/donot-link-this) bookmarklet. Now it will work on Facebook, but the user has to manually copy/paste from this UI's textarea.
+
+### Thoughts:
+  * Maybe App Academy will get more interesting after I finish the Introduction course.
+  * Do I need to worry about the size of the bookmarklet? It's currently over 800 bytes.
+  * I should probably add a button to the Don't Link This bookmarklet UI that will allow it to automatically replace the highlighted text. This won't work on Fb, but it'll work on other services.
