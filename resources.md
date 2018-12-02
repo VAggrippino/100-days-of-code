@@ -39,7 +39,6 @@
 ## Free Online Bootcamps / Courses / Tutorials
   * [FreeCodeCamp](https://www.freecodecamp.com)
   * [The Odin Project](http://www.theodinproject.com/)
-  * [App Academy Open](https://open.appacademy.io/)
 
 ## Books
   * ["Eloquent Javascript"](http://eloquentjavascript.net/) by Marijn Haverbeke
