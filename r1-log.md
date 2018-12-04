@@ -47,7 +47,7 @@
   * What looks like a contiguous block of text on Fb is actually a complicated mess of `div`s and `span`s.
   * Even if I wrote code to accommodate the current Fb post structure, they could change it at any time. I may have to implement some simple interface even for the bookmarklet version of the code and require manual copy / pasting.
 
-### Links to Work
+### Links to Work:
   * [App Academy Open](https://open.appacademy.io/) (There's no way to publicly link to my profile)
   * [[donot-link-this] commit 114207c](https://github.com/VAggrippino/donot-link-this/commit/114207c3824ed42ce9ba6489d83cee71e7931409)
 
@@ -62,3 +62,20 @@
   * Maybe App Academy will get more interesting after I finish the Introduction course.
   * Do I need to worry about the size of the bookmarklet? It's currently over 800 bytes.
   * I should probably add a button to the Don't Link This bookmarklet UI that will allow it to automatically replace the highlighted text. This won't work on Fb, but it'll work on other services.
+
+### Links to Work:
+  * [Add a UI to the bookmarklet to allow manual copy/paste](https://github.com/VAggrippino/donot-link-this/commit/97f782f7c0ea4cb96c0cc6e0a5c977ae980fc54f)
+
+
+## R1D5: 04 Dec 2018
+
+### Today's Progress:
+  * A lot of reading about Chrome extension implementation.
+  * Completed functional first alpha of the Chrome extension.
+
+### Thoughts:
+  * A few days have passed without being able to work on a real project... family. I've still been making steady progress on AppAcademy, though.
+  * I need to look closely at other Chrome extensions. What I've created here feels very rough.
+
+### Links to Work:
+  * [Add first draft of chrome extension](https://github.com/VAggrippino/donot-link-this/commit/cbea8946a407fc5c3abab829602eecce46366a87) 
