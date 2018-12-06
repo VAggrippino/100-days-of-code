@@ -79,3 +79,22 @@
 
 ### Links to Work:
   * [Add first draft of chrome extension](https://github.com/VAggrippino/donot-link-this/commit/cbea8946a407fc5c3abab829602eecce46366a87) 
+
+
+## R1D6: 06 Dec 2018
+
+### Today's Progress:
+  * A lot of reading about Firefox extension development only to find out that the [WebExtensions](https://wiki.mozilla.org/WebExtensions) API allows me to use the same code for both Chrome and Firefox.
+  * Changed [Don't Link This!](https://github.com/VAggrippino/donot-link-this) Chrome extension slightly to make it compatible with Firefox as well. Now the same extension code works with both Google Chrome and Mozilla Firefox.
+  * Updated Don't Link This logo and generated favicons using [realfavicongenerator.net](https://realfavicongenerator.net).
+  * Did a [subtree push](https://gist.github.com/cobyism/4730490) to host the [Don't Link This! site](https://vaggrippino.github.io/donot-link-this/) from the `dist` folder.
+
+### Thoughts:
+  * The Don't Link This page still needs design... badly.
+  * I need to use the extensions for a while before I attempt to publish the extensions. It wouldn't be good to publish the extensions only to get a bunch of 1-star reviews because I missed something stupid.
+
+### Links to Work:
+  * [Make minor change to manifest.json for Firefox compatibility](https://github.com/VAggrippino/donot-link-this/commit/4ddb7055b70d85d51ab0e30fd50298409d0f1ec1)
+  * [Update logo and add generated favicons](https://github.com/VAggrippino/donot-link-this/commit/b523578b6a8323794472fef50a7e84436bcc295e)
+    ![Don't Link This! logo](https://gitcdn.link/repo/VAggrippino/donot-link-this/master/src/images/logo.svg)
+  * [Don't Link This!](https://vaggrippino.github.io/donot-link-this/) - the site
